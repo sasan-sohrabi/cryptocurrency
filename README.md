@@ -1,7 +1,7 @@
 
 # 💰 Cryptocurrency Project
 
-Welcome to the **Cryptocurrency** repository! This project is designed to explore, develop, and test various cryptocurrency-related functionalities, including price tracking, data analysis, and algorithmic trading.
+Welcome to the **Cryptocurrency** repository! This project is designed to explore, develop, and test various cryptocurrency-related functionalities, including price tracking and data analysis.
 
 ## 📚 Key Features
 
